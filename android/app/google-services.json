@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "771491555896",
+    "project_id": "neonstrength-a64a7",
+    "storage_bucket": "neonstrength-a64a7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771491555896:android:108c1f013ec6e21a8494cd",
+        "android_client_info": {
+          "package_name": "com.example.voltlift"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfGCVMNZmeF8CDH493NUNI0_0PE8nt1KA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
